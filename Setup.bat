@@ -1,8 +1,9 @@
 @echo off
 title Markdown Formula Converter Installer
 echo ======================================================
-echo    Installing Markdown Formula Converter for Microsoft Word
-echo    Created by: Kartik Agrawat
+echo    Installing Markdown Formula Converter V1.1 for Microsoft Word
+echo    Created by: Kartik Agrawat 
+echo    Updated on 21 june 2026
 echo ======================================================
 echo.
 
@@ -44,9 +45,7 @@ if %errorlevel% equ 0 (
     echo Look at the very top left of your Word desktop app
     echo [above the Home ribbon] to find your custom icon.
     echo.
-    echo Open any old document containing raw symbols, or a new 
-    echo Word blank page and paste your text containing raw symbols 
-    echo instead of formula, click that butterfly icon, 
+    echo click that butterfly icon, 
     echo and watch the formulas instantly fix themselves!
     echo ======================================================
 ) else (
