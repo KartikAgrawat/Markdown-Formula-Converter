@@ -1,6 +1,6 @@
 # Pre-release Update 
 
-### Evolving into SciMAt v1.5.5-beta
+### Evolving into SciMAt v1.5.6-beta
 
 Testing new features and expanding the automation engine.
 
@@ -17,6 +17,7 @@ The project is gradually evolving from a document automation tool into **SciMAt 
 
 ⚠️ This is a pre-release build intended for testing. Features may change as development continues.
 
+<img width="76" height="50" alt="Example - Chemistry" src="https://github.com/user-attachments/assets/0ded94d7-a777-4661-8538-8c3ec7cfbee7" />
 
 # Markdown Formula to MS Word Equation Converter 
 
